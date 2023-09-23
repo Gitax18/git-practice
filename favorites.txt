@@ -1,3 +1,10 @@
+:Foods
 panner tikka
 chicken tikka
 navratan korma
+
+:Movies
+batman 
+battleship
+kgf 2
+
